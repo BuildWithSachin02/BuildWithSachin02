@@ -1,3 +1,5 @@
+![logo](https://github.com/BuildWithSachin02/BuildWithSachin/blob/main/github-header-banner.png)
+
 <h1 align="center">Hi 👋, Sachin here — learning by building</h1>
 <h3 align="center">I build and experiment with web technologies while learning how real-world applications are made.</h3>
 
