@@ -25,7 +25,21 @@
 
 - 💬 Ask me about **How I learn web development step by step as a beginner**
 
-- 📫 How to reach me **yadavsachin3166@gmail.com, sachinyadav.webdev404@gmail.com**
+- 📫 How to reach me **yadavsachin3166@gmail.com, sachinyadav.webdev404@gmail.com**  
+Reach me via email for collaboration or learning discussions
+
+👨‍💻 All of my projects are available at  
+Most of my projects live here on GitHub as learning-based builds
+
+✍️ I regularly write articles on  
+Currently focusing more on building than writing
+
+📄 Know about my experiences  
+Hands-on learning through self-built projects and practice
+
+⚡ Fun fact  
+I learn best by breaking my own code and fixing it
+
 
 - 📄 Know about my experiences [Hands-on learning through self-built projects and practice](Hands-on learning through self-built projects and practice)
 
