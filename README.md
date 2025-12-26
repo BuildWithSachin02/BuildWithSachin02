@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+✨;Learning+by+Breaking+%26+Fixing+Code+🔧;HTML+%7C+CSS+%7C+JavaScript+💻;Frontend+Developer+in+the+Making+🚀)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="680">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="730">
 
 </div>
 
@@ -59,14 +59,26 @@ const sachin = {
 
 ---
 
-
----
-
-## 📈 Contribution Graph
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BuildWithSachin02&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/BuildWithSachin02">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuildWithSachin02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithSachin02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<div align="center">
+
+<a href="https://github.com/BuildWithSachin02">
+  <img src="https://streak-stats.demolab.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</a>
 
 </div>
 
@@ -76,39 +88,27 @@ const sachin = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=BuildWithSachin02&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7)
+<a href="https://github.com/BuildWithSachin02">
+  <img src="https://github-profile-trophy.vercel.app/?username=BuildWithSachin02&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
 ---
 
-## 🔥 Current Streak
+## 📈 Contribution Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-
-### 📅 Contribution Stats
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Total_Contributions-2,982+-6366F1?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Current_Streak-4_days-22C55E?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Longest_Streak-37_days-F59E0B?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/BuildWithSachin02">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildWithSachin02&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
+</a>
 
 </div>
 
 ---
 
-## 💼 Recent Projects
+## 💼 Pinned Repositories
 
 <div align="center">
 
@@ -116,7 +116,7 @@ const sachin = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuildWithSachin02&repo=price-range-slider&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/BuildWithSachin02">
+<a href="https://github.com/BuildWithSachin02/BuildWithSachin02">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuildWithSachin02&repo=BuildWithSachin02&theme=tokyonight&hide_border=true" />
 </a>
 
@@ -170,7 +170,7 @@ graph LR
 
 ---
 
-## 💭 Dev Quote
+## 💭 Daily Dev Quote
 
 <div align="center">
 
@@ -180,7 +180,7 @@ graph LR
 
 ---
 
-## 📊 Profile Views
+## 📊 Profile Statistics
 
 <div align="center">
 
