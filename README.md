@@ -1,59 +1,213 @@
-![logo](https://github.com/BuildWithSachin02/BuildWithSachin/blob/main/github-header-banner.png)
+<div align="center">
+  
+# 👨‍💻 Sachin Yadav
 
-<h1 align="center">Hi 👋, Sachin here — learning by building</h1>
-<h3 align="center">I build and experiment with web technologies while learning how real-world applications are made.</h3>
+### `Full Stack Developer | UI/UX Enthusiast | Building & Learning in Public`
 
-<img align="right" width="400px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+✨;Learning+by+Breaking+%26+Fixing+Code+🔧;HTML+%7C+CSS+%7C+JavaScript+💻;Frontend+Developer+in+the+Making+🚀)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buildwithsachin02&label=Profile%20views&color=0e75b6&style=flat" alt="buildwithsachin02" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buildwithsachin02" alt="buildwithsachin02" /></a> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- Work → I’m currently working on **Practice projects focused on UI, logic, and basic workflows**
+## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Frontend development, programming logic, and automation concepts**
+```javascript
+const sachin = {
+    location: "India 🇮🇳",
+    currentFocus: "Frontend Development & UI Design",
+    learning: ["JavaScript", "Responsive Design", "Web Animation"],
+    funFact: "console.log() is my debugging best friend 🐛",
+    philosophy: "Build → Break → Fix → Learn → Repeat 🔄"
+};
+```
 
-- 👯 I’m looking to collaborate on **Beginner-friendly web projects and learning-based collaborations**
+- 🔭 Currently working on **Practice projects focused on UI/UX and interactive web apps**
+- 🌱 Learning **JavaScript fundamentals, problem-solving, and modern CSS techniques**
+- 💡 Interested in **Frontend development, clean code, and user experience**
+- 🤝 Open to **beginner-friendly collaborations and learning together**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, WordPress**
+- 📫 Reach me: **yadavsachin3166@gmail.com** | **sachinyadav.webdev404@gmail.com**
+- ⚡ Fun fact: **I learn best by breaking my own code and fixing it**
 
-- 🤝 I’m looking for help with **Improving problem-solving and real-world project flow**
+---
 
-- 👨‍💻 All of my projects are available at [Most of my projects live here on GitHub as learning-based builds](Most of my projects live here on GitHub as learning-based builds)
+## 🛠️ Tech Stack & Tools
 
-- 📝 I regularly write articles on [Planning to share learnings and notes in the future](Planning to share learnings and notes in the future)
+<div align="center">
 
-- 💬 Ask me about **How I learn web development step by step as a beginner**
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- 📫 How to reach me **yadavsachin3166@gmail.com, sachinyadav.webdev404@gmail.com**  
-Reach me via email for collaboration or learning discussions
+### 🎨 Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-👨‍💻 All of my projects are available at  
-Most of my projects live here on GitHub as learning-based builds
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-✍️ I regularly write articles on  
-Currently focusing more on building than writing
+</div>
 
-📄 Know about my experiences  
-Hands-on learning through self-built projects and practice
+---
 
-⚡ Fun fact  
-I learn best by breaking my own code and fixing it
+## 📊 GitHub Analytics
 
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BuildWithSachin02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true" />
 
-- 📄 Know about my experiences [Hands-on learning through self-built projects and practice](Hands-on learning through self-built projects and practice)
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithSachin02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-- ⚡ Fun fact **Console.log is still my best debugging tool**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## 📈 Contribution Graph
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buildwithsachin02&show_icons=true&locale=en&layout=compact" alt="buildwithsachin02" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buildwithsachin02&show_icons=true&locale=en" alt="buildwithsachin02" /></p>
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BuildWithSachin02&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithsachin02&" alt="buildwithsachin02" /></p>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BuildWithSachin02&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔥 Current Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+
+### 📅 Contribution Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Contributions-2,982+-6366F1?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Current_Streak-4_days-22C55E?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Longest_Streak-37_days-F59E0B?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Recent Projects
+
+<div align="center">
+
+<a href="https://github.com/BuildWithSachin02/price-range-slider">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuildWithSachin02&repo=price-range-slider&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/BuildWithSachin02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuildWithSachin02&repo=BuildWithSachin02&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Learning Journey
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[HTML/CSS Basics] --> B[JavaScript Fundamentals]
+    B --> C[Responsive Design]
+    C --> D[Bootstrap Framework]
+    D --> E[Interactive UI]
+    E --> F[Git & Version Control]
+    F --> G[Real Projects]
+    
+    style A fill:#E34F26
+    style B fill:#F7DF1E
+    style C fill:#1572B6
+    style D fill:#7952B3
+    style E fill:#6366F1
+    style F fill:#F05032
+    style G fill:#22C55E
+```
+
+### 📚 Currently Learning
+- ⚡ Advanced JavaScript (ES6+)
+- 🎨 CSS Animations & Transitions
+- 📱 Mobile-First Design
+- 🔧 Problem Solving & Logic Building
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-BuildWithSachin02-181717?style=for-the-badge&logo=github)](https://github.com/BuildWithSachin02)
+[![Email](https://img.shields.io/badge/Email-yadavsachin3166-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavsachin3166@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+### 💌 Open for collaboration on beginner-friendly projects!
+
+</div>
+
+---
+
+## 💭 Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📊 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=BuildWithSachin02&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Show some ❤️ by starring some repositories!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+**Made with 💜 by Sachin Yadav**
+
+*"Building one project at a time, learning one concept at a time"*
+
+</div>
