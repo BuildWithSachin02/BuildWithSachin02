@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+✨;Learning+by+Breaking+%26+Fixing+Code+🔧;HTML+%7C+CSS+%7C+JavaScript+💻;Frontend+Developer+in+the+Making+🚀)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="730">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
 
@@ -63,22 +63,11 @@ const sachin = {
 
 <div align="center">
 
-<a href="https://github.com/BuildWithSachin02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuildWithSachin02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithSachin02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+![](https://github-readme-stats.vercel.app/api?username=BuildWithSachin02&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BuildWithSachin02&theme=radical&hide_border=false)
 
----
-
-## 🔥 GitHub Streak Stats
-
-<div align="center">
-
-<a href="https://github.com/BuildWithSachin02">
-  <img src="https://streak-stats.demolab.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithSachin02&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
@@ -88,37 +77,37 @@ const sachin = {
 
 <div align="center">
 
-<a href="https://github.com/BuildWithSachin02">
-  <img src="https://github-profile-trophy.vercel.app/?username=BuildWithSachin02&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</a>
+![](https://github-profile-trophy.vercel.app/?username=BuildWithSachin02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## ✍️ Random Dev Quote
 
 <div align="center">
 
-<a href="https://github.com/BuildWithSachin02">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildWithSachin02&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
-</a>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
-## 💼 Pinned Repositories
+## 🔝 Top Contributed Repo
 
 <div align="center">
 
-<a href="https://github.com/BuildWithSachin02/price-range-slider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuildWithSachin02&repo=price-range-slider&theme=tokyonight&hide_border=true" />
-</a>
+![](https://github-contributor-stats.vercel.app/api?username=BuildWithSachin02&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<a href="https://github.com/BuildWithSachin02/BuildWithSachin02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuildWithSachin02&repo=BuildWithSachin02&theme=tokyonight&hide_border=true" />
-</a>
+</div>
+
+---
+
+## 💰 Support My Work
+
+<div align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buildwithsachin) 
 
 </div>
 
@@ -128,29 +117,12 @@ const sachin = {
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[HTML/CSS Basics] --> B[JavaScript Fundamentals]
-    B --> C[Responsive Design]
-    C --> D[Bootstrap Framework]
-    D --> E[Interactive UI]
-    E --> F[Git & Version Control]
-    F --> G[Real Projects]
-    
-    style A fill:#E34F26
-    style B fill:#F7DF1E
-    style C fill:#1572B6
-    style D fill:#7952B3
-    style E fill:#6366F1
-    style F fill:#F05032
-    style G fill:#22C55E
-```
+### 📚 Current Focus Areas
 
-### 📚 Currently Learning
-- ⚡ Advanced JavaScript (ES6+)
-- 🎨 CSS Animations & Transitions
-- 📱 Mobile-First Design
-- 🔧 Problem Solving & Logic Building
+🔹 **JavaScript Mastery** - Building interactive web applications  
+🔹 **CSS Animations** - Creating smooth, engaging user experiences  
+🔹 **Responsive Design** - Mobile-first approach to web development  
+🔹 **Problem Solving** - Strengthening logic and algorithmic thinking  
 
 </div>
 
@@ -170,29 +142,11 @@ graph LR
 
 ---
 
-## 💭 Daily Dev Quote
-
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=BuildWithSachin02&color=blueviolet&style=flat-square)
 
-</div>
-
----
-
-## 📊 Profile Statistics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=BuildWithSachin02&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Show some ❤️ by starring some repositories!
+### 🌟 Show some ❤️ by starring repositories!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -201,3 +155,11 @@ graph LR
 *"Building one project at a time, learning one concept at a time"*
 
 </div>
+
+---
+
+### 📌 Quick Links
+
+- 💼 [My Projects](https://github.com/BuildWithSachin02?tab=repositories)
+- 📝 [Latest Activity](https://github.com/BuildWithSachin02)
+- ⭐ [Starred Repos](https://github.com/BuildWithSachin02?tab=stars)
