@@ -63,10 +63,10 @@ const sachin = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BuildWithSachin02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true" />
+![Stats](https://github-readme-stats.vercel.app/api?username=BuildWithSachin02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true)
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithSachin02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithSachin02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -76,7 +76,7 @@ const sachin = {
 
 <div align="center">
 
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BuildWithSachin02&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BuildWithSachin02&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -86,7 +86,7 @@ const sachin = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BuildWithSachin02&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=BuildWithSachin02&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7)
 
 </div>
 
@@ -96,23 +96,13 @@ const sachin = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
 
 ### 📅 Contribution Stats
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Total_Contributions-2,982+-6366F1?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Current_Streak-4_days-22C55E?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Longest_Streak-37_days-F59E0B?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+| Total Contributions | Current Streak | Longest Streak |
+|:-------------------:|:--------------:|:--------------:|
+| ![](https://img.shields.io/badge/2,982+-6366F1?style=for-the-badge) | ![](https://img.shields.io/badge/4_days-22C55E?style=for-the-badge) | ![](https://img.shields.io/badge/37_days-F59E0B?style=for-the-badge) |
 
 </div>
 
