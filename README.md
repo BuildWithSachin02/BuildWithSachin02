@@ -32,7 +32,7 @@ const sachin = {
 - 📫 Reach me: **yadavsachin3166@gmail.com** | **sachinyadav.webdev404@gmail.com**
 - ⚡ Fun fact: **I learn best by breaking my own code and fixing it**
 
----
+----
 
 ## 🛠️ Tech Stack & Tools
 
