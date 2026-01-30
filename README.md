@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Sachin Yadav.
+# 👨‍💻 Sachin Yadav
 # const coding =  I HAVE TO COOK
 ### `Full Stack Developer | UI/UX Enthusiast | Building & Learning in Public`
 
