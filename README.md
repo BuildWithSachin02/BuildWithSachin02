@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👨‍💻 Sachin Yadav.
-# const coding =  I HAVE TO COOK
+
 ### `Full Stack Developer | UI/UX Enthusiast | Building & Learning in Public`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+✨;Learning+by+Breaking+%26+Fixing+Code+🔧;HTML+%7C+CSS+%7C+JavaScript+💻;Frontend+Developer+in+the+Making+🚀)](https://git.io/typing-svg)
