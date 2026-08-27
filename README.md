@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+✨;Learning+by+Breaking+%26+Fixing+Code+🔧;HTML+%7C+CSS+%7C+JavaScript+💻;Frontend+Developer+in+the+Making+🚀)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowNmQ1NmV4a29uOGRzMmgyczJwNHhsZXh2OGFhZzFrNTFqbnNoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rhZr8u3cvxe0ksf1ej/giphy.gif" width="100%">
 
 </div>
 
