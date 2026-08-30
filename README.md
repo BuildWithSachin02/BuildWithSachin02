@@ -1,201 +1,139 @@
 <div align="center">
-  
-#### `Full Stack Developer | UI/UX Enthusiast | Building & Learning in Public`
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+✨;Learning+by+Breaking+%26+Fixing+Code+🔧;HTML+%7C+CSS+%7C+JavaScript+💻;Frontend+Developer+in+the+Making+🚀)](https://git.io/typing-svg)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJrcHRmbGgyejR3d2poNWM4OWlheGJrOHNubjdobnQ5NWd3N2ZyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kbCOCUKMuwe9fM8bBL/giphy.gif" width="100%">
-
+Sachin Yadav
+Full Stack Developer · JavaScript · Node.js · MongoDB · UI/UX
+https://git.io/typing-svg
+Building practical web applications, backend systems, automation tools, and user-focused digital experiences.
 </div>
-
-----
-
-## 🙋‍♂️ About Me
-
-```javascript
+About Me
+JavaScript
 const sachin = {
-    location: "India 🇮🇳",
-    currentFocus: "Frontend Development & UI Design",
-    learning: ["JavaScript", "Responsive Design", "Web Animation"],
-    funFact: "console.log() is my debugging best friend 🐛",
-    philosophy: "Build → Break → Fix → Learn → Repeat 🔄"
+  role: "Full Stack Developer",
+  location: "India",
+  focus: ["Web Applications", "Backend Systems", "Automation", "UI/UX"],
+  stack: ["JavaScript", "Node.js", "MongoDB", "HTML", "CSS"],
+  philosophy: "Build → Break → Fix → Learn → Improve → Repeat",
+  currently: "Shipping real projects and exploring backend engineering"
 };
-```
+I am a Full Stack Developer from India focused on building practical, working software. I design and develop web applications, backend systems, APIs, database-driven tools, and automation workflows. My recent work centers on backend development with Node.js and MongoDB, including a production-informed Telegram bot for business ledger management.
+I believe in learning through real-world engineering: shipping features, debugging systems, and improving through iteration.
+What I Build
+Web Applications
+Responsive, interactive, and user-focused web experiences built with modern frontend practices.
+Backend Systems
+Node.js applications, REST APIs, business logic layers, and database-driven architectures.
+Automation & Bots
+Telegram bots and automated workflows that solve practical business and operational problems.
+Business Applications
+Tools for customer management, financial tracking, reporting, and workflow automation.
+UI/UX
+Clean interfaces focused on usability, responsive design, and meaningful interaction.
+Learning Projects
+Experimental builds used to explore new technologies, patterns, and engineering concepts.
+Featured Projects
+Price Range Slider
+Tech Stack: HTML · CSS · JavaScript
+An interactive dual-handle price range slider component built with vanilla JavaScript. Features real-time value updates, smooth drag interactions, and responsive styling suitable for e-commerce and filtering interfaces.
+What I learned: DOM manipulation, event handling, component-based thinking, and responsive UI patterns.
+https://github.com/BuildWithSachin02/price-range-slider
+Telegram Business Ledger Bot
+Tech Stack: Node.js · MongoDB · Telegram Bot API
+A Telegram-based business ledger system designed to manage customers, financial records, and owner-level reporting through a conversational interface. Built to explore backend architecture, database design, and real-world automation.
+Capabilities:
+Customer management and profile tracking
+Credit/debit record keeping
+Payment tracking and balance calculation
+Customer status filtering (paid, unpaid, credit)
+Owner summaries and shop reporting
+Bot command interactions and conversational flows
+Database persistence with MongoDB
+Environment-based configuration
+Modular backend architecture
+Technical learning: Backend architecture, MongoDB integration, Telegram API integration, async JavaScript, data modeling, business logic implementation, error handling, environment configuration, and Git workflow.
+Repository link to be added.
+Current Engineering Focus
+Advanced JavaScript (ES6+) and asynchronous patterns
+Node.js backend development and REST API design
+MongoDB data modeling and CRUD operations
+Telegram bot development and conversational UI
+Automation workflows and business logic
+Authentication and authorization patterns
+Error handling and clean architecture
+Responsive UI and modern CSS techniques
+Problem solving and systematic debugging
+Git and collaborative development workflows
+Tech Stack
+Languages
+ HTML5 
 
-- 🔭 Currently working on **Practice projects focused on UI/UX and interactive web apps**
-- 🌱 Learning **JavaScript fundamentals, problem-solving, and modern CSS techniques**
-- 💡 Interested in **Frontend development, clean code, and user experience**
-- 🤝 Open to **beginner-friendly collaborations and learning together**
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, WordPress**
-- 📫 Reach me: **yadavsachin3166@gmail.com** | **sachinyadav.webdev404@gmail.com**
-- ⚡ Fun fact: **I learn best by breaking my own code and fixing it**
+ CSS3 
 
-----
+ JavaScript 
 
-## 🛠️ Tech Stack & Tools
+ C 
+Frontend
+ Bootstrap 
 
+ Responsive Design 
+
+ Figma 
+Backend
+ Node.js 
+
+ REST APIs 
+
+ Telegram Bot API 
+Database
+ MongoDB 
+Tools
+ Git 
+
+ GitHub 
+
+ VS Code 
+
+ Linux 
+CMS
+ WordPress 
+Development Principles
+Build before overthinking. Ship working code, then refine.
+Understand the problem before choosing the technology. Fit the tool to the need.
+Write maintainable code. Clarity today saves time tomorrow.
+Debug systematically. Reproduce, isolate, fix, verify.
+Learn from real implementation. Theory validates; practice teaches.
+Improve through iteration. Version 1 teaches you what version 2 should be.
+Learning Roadmap
+Mermaid
+Code
+Preview
+Frontend Fundamentals
+Modern JavaScript
+Responsive UI / UX
+Backend Development
+Node.js + REST APIs
+MongoDB
+Telegram Bots &Automation
+Real-World Applications
+System Design & ScalableArchitecture
+GitHub Statistics
 <div align="center">
-
-### 💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🎨 Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
 <a href="https://github.com/BuildWithSachin02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuildWithSachin02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithSachin02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BuildWithSachin02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithSachin02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
 
-</div>
-
----
-
-## 🔥 GitHub Streak Stats
-
-<div align="center">
 
 <a href="https://github.com/BuildWithSachin02">
   <img src="https://streak-stats.demolab.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </a>
-
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
+Connect With Me
 <div align="center">
-
-<a href="https://github.com/BuildWithSachin02">
-  <img src="https://github-profile-trophy.vercel.app/?username=BuildWithSachin02&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</a>
-
+https://github.com/BuildWithSachin02
+mailto:yadavsachin3166@gmail.com
+mailto:sachinyadav.webdev404@gmail.com
+Open to collaborating on practical web applications, automation tools, developer projects, and ideas that solve real problems.
 </div>
-
----
-
-## 📈 Contribution Activity Graph
-
 <div align="center">
-
-<a href="https://github.com/BuildWithSachin02">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildWithSachin02&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
-</a>
-
-</div>
-
----
-
-## 💼 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/BuildWithSachin02/price-range-slider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuildWithSachin02&repo=price-range-slider&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/BuildWithSachin02/BuildWithSachin02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuildWithSachin02&repo=BuildWithSachin02&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🎯 Learning Journey
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[HTML/CSS Basics] --> B[JavaScript Fundamentals]
-    B --> C[Responsive Design]
-    C --> D[Bootstrap Framework]
-    D --> E[Interactive UI]
-    E --> F[Git & Version Control]
-    F --> G[Real Projects]
-    
-    style A fill:#E34F26
-    style B fill:#F7DF1E
-    style C fill:#1572B6
-    style D fill:#7952B3
-    style E fill:#6366F1
-    style F fill:#F05032
-    style G fill:#22C55E
-```
-
-### 📚 Currently Learning
-- ⚡ Advanced JavaScript (ES6+)
-- 🎨 CSS Animations & Transitions
-- 📱 Mobile-First Design
-- 🔧 Problem Solving & Logic Building
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-BuildWithSachin02-181717?style=for-the-badge&logo=github)](https://github.com/BuildWithSachin02)
-[![Email](https://img.shields.io/badge/Email-yadavsachin3166-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavsachin3166@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-### 💌 Open for collaboration on beginner-friendly projects!
-
-</div>
-
----
-
-## 💭 Daily Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📊 Profile Statistics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=BuildWithSachin02&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Show some ❤️ by starring some repositories!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-**Made with 💜 by Sachin Yadav**
-
-*"Building one project at a time, learning one concept at a time"*
-
+Building one project at a time, learning one concept at a time.
+Full Stack Developer · JavaScript · Node.js · MongoDB · UI/UX
 </div>
