@@ -1,123 +1,201 @@
 <div align="center">
+  
+#### `Full Stack Developer | UI/UX Enthusiast | Building & Learning in Public`
 
-# Sachin Yadav
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+✨;Learning+by+Breaking+%26+Fixing+Code+🔧;HTML+%7C+CSS+%7C+JavaScript+💻;Frontend+Developer+in+the+Making+🚀)](https://git.io/typing-svg)
 
-**Full Stack Developer** — JavaScript · Node.js · MongoDB · React · WordPress
-
-Surat, Gujarat, India
-
-[![Email](https://img.shields.io/badge/-yadavsachin3166%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:yadavsachin3166@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://sachinyadav.navyantravels.com)
-[![GitHub](https://img.shields.io/badge/-BuildWithSachin02-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BuildWithSachin02)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJrcHRmbGgyejR3d2poNWM4OWlheGJrOHNubjdobnQ5NWd3N2ZyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kbCOCUKMuwe9fM8bBL/giphy.gif" width="100%">
 
 </div>
 
-<br>
+----
 
-## Summary
+## 🙋‍♂️ About Me
 
-Full stack developer building production websites for real clients and backend systems for real workflows. My work spans two tracks: **client-facing web development** — premium, conversion-focused websites for real estate and healthcare businesses in India and Kuwait — and **applied backend development**, most recently a Telegram-based ledger system built with Node.js and MongoDB. Background includes a B.Com degree and prior experience in sales, which shapes how I approach client requirements and business logic.
+```javascript
+const sachin = {
+    location: "India 🇮🇳",
+    currentFocus: "Frontend Development & UI Design",
+    learning: ["JavaScript", "Responsive Design", "Web Animation"],
+    funFact: "console.log() is my debugging best friend 🐛",
+    philosophy: "Build → Break → Fix → Learn → Repeat 🔄"
+};
+```
 
-<br>
+- 🔭 Currently working on **Practice projects focused on UI/UX and interactive web apps**
+- 🌱 Learning **JavaScript fundamentals, problem-solving, and modern CSS techniques**
+- 💡 Interested in **Frontend development, clean code, and user experience**
+- 🤝 Open to **beginner-friendly collaborations and learning together**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, WordPress**
+- 📫 Reach me: **yadavsachin3166@gmail.com** | **sachinyadav.webdev404@gmail.com**
+- ⚡ Fun fact: **I learn best by breaking my own code and fixing it**
 
-## Client Work
+----
 
-Freelance web development for real businesses, focused on conversion (lead capture, click-to-call, WhatsApp) rather than templates.
-
-| Client | Sector | Highlights |
-|---|---|---|
-| **Aastha Realestate** — Surat | Real Estate | Navy/gold premium build, WhatsApp lead capture, floating action buttons |
-| **Skyline Estate** — Surat | Real Estate | Property search hero, 6-listing showcase, animated counters, glassmorphism UI |
-| **Sunraise Group** — Surat | Real Estate | Full-funnel landing page (hero → services → process → reviews → FAQ → CTA) |
-| **Asutosh Hospital** — Surat | Healthcare | Bilingual (EN/Gujarati), mobile-first, local SEO, floating call/WhatsApp |
-| **The Clinic Medical Centre** — Kuwait City | Healthcare | Bilingual Arabic/English with RTL layout, local SEO for the Kuwait market |
-| **Apple Maitreya Hospital** — Surat | Healthcare | Single-page hospital site, in progress |
-
-All client sites are built mobile-first with a strict accuracy standard — no fabricated facts, stats, or credentials on live client work.
-
-<br>
-
-## Featured Projects
-
-**SR Khata — Telegram Business Ledger Bot**
-`Node.js` · `MongoDB` · `Telegram Bot API`
-A two-bot system (Customer Bot + Owner Bot) that runs a shop's customer ledger entirely through Telegram — purchases, payment verification, undo requests, and owner-side approvals and reporting. Modular service architecture (`ledgerService`, `paymentRequestService`, `undoRequestService`, `ownerReportService`) with test coverage for balances, duplicate/conflict protection, and approval race conditions. Currently hardening concurrency handling; multi-shop support and staff roles are next.
-
-**React E-Commerce Application**
-`React` · `JavaScript`
-A storefront-style application built to practice component architecture, state management, and product/cart flows in React.
-
-**JavaScript Product Store**
-`JavaScript` · `HTML` · `CSS`
-A vanilla JS product listing application, built before moving into React, focused on DOM manipulation and UI logic without a framework.
-
-**Price Range Slider**
-`JavaScript` · `HTML` · `CSS`
-An interactive UI component focused on custom range-input behavior and responsive styling.
-[Repository →](https://github.com/BuildWithSachin02/price-range-slider)
-
-**Personal Portfolio**
-`HTML` · `CSS` · `JavaScript`
-[sachinyadav.navyantravels.com](https://sachinyadav.navyantravels.com)
-
-<br>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Frontend**
-- JavaScript, HTML5, CSS3
-- React
-- Tailwind CSS, Bootstrap
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & Data**
-- Node.js
-- Telegram Bot API
-- MongoDB
-
-</td>
-<td valign="top" width="33%">
-
-**CMS & Tools**
-- WordPress (Elementor, WooCommerce)
-- Git, GitHub, Docker (basics)
-- SEO fundamentals
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Background & Certifications
-
-- B.Com, 2021–2024
-- Prior experience as a Sales Executive, Ishan Netsol Pvt. Ltd.
-- Forage virtual experience programs: **Wells Fargo**, **J.P. Morgan**, **Skyscanner**
-
-<br>
-
-## GitHub Activity
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=BuildWithSachin02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithSachin02&layout=compact&theme=tokyonight&hide_border=true"/>
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🎨 Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<br>
+---
 
-## Contact
+## 📊 GitHub Statistics
 
-[![GitHub](https://img.shields.io/badge/GitHub-BuildWithSachin02-181717?style=flat-square&logo=github)](https://github.com/BuildWithSachin02)
-[![Email](https://img.shields.io/badge/Email-yadavsachin3166-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:yadavsachin3166@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sachinyadav.navyantravels.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://sachinyadav.navyantravels.com)
+<div align="center">
 
-Open to freelance and full-time full stack roles, and to collaborating on backend, automation, or business-application projects.
+<a href="https://github.com/BuildWithSachin02">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuildWithSachin02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithSachin02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<div align="center">
+
+<a href="https://github.com/BuildWithSachin02">
+  <img src="https://streak-stats.demolab.com/?user=BuildWithSachin02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/BuildWithSachin02">
+  <img src="https://github-profile-trophy.vercel.app/?username=BuildWithSachin02&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<a href="https://github.com/BuildWithSachin02">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuildWithSachin02&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
+</a>
+
+</div>
+
+---
+
+## 💼 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/BuildWithSachin02/price-range-slider">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuildWithSachin02&repo=price-range-slider&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/BuildWithSachin02/BuildWithSachin02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BuildWithSachin02&repo=BuildWithSachin02&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Learning Journey
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[HTML/CSS Basics] --> B[JavaScript Fundamentals]
+    B --> C[Responsive Design]
+    C --> D[Bootstrap Framework]
+    D --> E[Interactive UI]
+    E --> F[Git & Version Control]
+    F --> G[Real Projects]
+    
+    style A fill:#E34F26
+    style B fill:#F7DF1E
+    style C fill:#1572B6
+    style D fill:#7952B3
+    style E fill:#6366F1
+    style F fill:#F05032
+    style G fill:#22C55E
+```
+
+### 📚 Currently Learning
+- ⚡ Advanced JavaScript (ES6+)
+- 🎨 CSS Animations & Transitions
+- 📱 Mobile-First Design
+- 🔧 Problem Solving & Logic Building
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-BuildWithSachin02-181717?style=for-the-badge&logo=github)](https://github.com/BuildWithSachin02)
+[![Email](https://img.shields.io/badge/Email-yadavsachin3166-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavsachin3166@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+### 💌 Open for collaboration on beginner-friendly projects!
+
+</div>
+
+---
+
+## 💭 Daily Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📊 Profile Statistics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=BuildWithSachin02&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Show some ❤️ by starring some repositories!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+**Made with 💜 by Sachin Yadav**
+
+*"Building one project at a time, learning one concept at a time"*
+
+</div>
