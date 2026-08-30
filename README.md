@@ -18,7 +18,7 @@ Building practical web applications, backend systems, automation tools, and busi
 const sachin = {
   location: "Surat, Gujarat, India 🇮🇳",
   role: "Full Stack Developer",
-  background: "B.Com (2021–2024) → Sales Executive → Full Stack Development",
+  background: "B.Com (2021–2024)  → Full Stack Development",
   focus: ["Node.js", "MongoDB", "Telegram Bot APIs", "React", "WordPress"],
   approach: "Build → Break → Fix → Learn → Improve → Repeat"
 };
