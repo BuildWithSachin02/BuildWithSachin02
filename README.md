@@ -2,7 +2,7 @@
 
 # Sachin Yadav
 
-**Frontend Developer** · Building clean, responsive web interfaces
+**FullStack Developer & AutoMation Devloper** · Building clean, responsive web interfaces
 
 [![Email](https://img.shields.io/badge/Email-yadavsachin3166@gmail.com-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:yadavsachin3166@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BuildWithSachin02-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/BuildWithSachin02)
